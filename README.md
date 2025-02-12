@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Razakhan143" />
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Razakhan143&" alt="Razakhan143" /></p>
