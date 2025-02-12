@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Razakhan143&label=Profile%20views&color=0e75b6&style=flat" alt="Razakhan143" /> </p>
 
 <p align="left">
- <a href="https://twitter.com/aitzazhakro20" target="blank">
-   <img src="https://img.shields.io/twitter/follow/aitzaz_hakro?logo=twitter&style=for-the-badge" alt="aitzaz_hakro" /> 
+ <a href="https://twitter.com/Razakhan143" target="blank">
+   <img src="https://img.shields.io/twitter/follow/Razakhan143?logo=twitter&style=for-the-badge" alt="Razakhan143" /> 
   </a>
 </p>
 
