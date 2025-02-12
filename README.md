@@ -31,7 +31,8 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Razakhan143" />
 <!--   green snake -->
-![Razakhan143's github activity graph](https://raw.githubusercontent.com/Razakhan143/Razakhan143/output/github-contribution-grid-snake.svg)
+![Raza's GitHub Activity](https://raw.githubusercontent.com/Razakhan143/Razakhan143/main/github-contribution-grid-snake.svg)
+
 
 
 
