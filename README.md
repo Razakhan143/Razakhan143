@@ -32,6 +32,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-masood26&" alt="Razakhan143" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Razakhan143&" alt="Razakhan143" /></p>
 
 ###
