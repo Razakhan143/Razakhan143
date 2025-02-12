@@ -30,6 +30,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Razakhan143" />
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Razakhan143&" alt="Razakhan143" /></p>
