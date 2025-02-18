@@ -47,11 +47,9 @@
 
 
 
-## 🏆 GitHub Activity Graph
+## 🏆 GitHub Activity Graph: 
 
 ![GitHub Activity Graph](https://github.com/Razakhan143/Razakhan143/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ###
 
