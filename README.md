@@ -1,176 +1,108 @@
-<!-- Banner -->
-![masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+# Muhammad Raza | Data Scientist & AI Engineer
 
+<div align="center">
+  
+  ![masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+with+Purpose;Deploying+Intelligence+at+Scale;From+Prototypes+to+Production;Solving+Problems+with+ML)](https://git.io/typing-svg)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Razakhan143&label=Profile%20Views&color=0e75b6&style=flat-square)
+  
+</div>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Muhammad Raza</span></h1>
-<h3 align="center">🚀 Data Scientist | MLOps Enthusiast | AI Engineer in the Making</h3>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+with+Purpose;Deploying+Intelligence+at+Scale;From+Prototypes+to+Production;Solving+Problems+with+ML+and+Code" alt="Typing Animation" />
-</p>
+I'm a passionate **Computer Systems Engineering** student at **MUET Jamshoro** with a strong focus on **Artificial Intelligence**, **Data Science**, and **MLOps**. I believe in building AI solutions that create real-world impact and deploying them at scale.
 
----
+### 🎯 Current Focus
+- 🎓 **Education**: Bachelor's in Computer Systems Engineering (CGPA: 3.59)
+- 💼 **Role**: Co-Lead IEEE Xtreme Karachi Section, Region 10
+- 🔬 **Research**: Machine Learning Operations and AI model deployment
+- 🌱 **Learning**: Advanced MLOps, Kubernetes, and Cloud Architecture
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Razakhan143&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
+### 🏆 Key Achievements
+- 🥉 **3rd Place** - All Pakistan Physics Project Competition, Gujranwala
+- 🏅 **6th Position** - Intermediate ICS (Hyderabad Board)
+- 💼 **Professional Experience**: CodeSoft (UI/UX Intern), Clickworker (Data Labeling & NLP)
 
----
+## 🛠️ Technical Arsenal
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Razakhan143" alt="Razakhan143" /></a> </p>
+<details>
+<summary><b>🔧 Core Technologies</b></summary>
 
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-###
+### Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+### Web Development & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <!-- Libraries & Frameworks -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="40" height="40"/>
-  </a>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  <!-- Tools -->
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" alt="Excel" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
+</details>
 
-  <!-- Cloud & Others -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-</p>
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Razakhan143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Razakhan143&theme=tokyonight&hide_border=true" />
+  
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razakhan143&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  
+</div>
 
-###
----
+## 🏆 GitHub Trophies
 
-## 🌐 Connect with Me
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Razakhan143&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+  
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raza-khan-922612296/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Razakhan143)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razakhanzada100@gmail.com)
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=Razakhan143&theme=tokyo-night&hide_border=true&area=true)
+  
+</div>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raza-khan-922612296/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://razakhan143.github.io/portfolio_website/index.html)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razakhanzada100@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Razakhan143)
+  
+</div>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Pursuing **Bachelor’s in Computer Systems Engineering** at **MUET Jamshoro** (CGPA: 3.59)
-- 💡 Passionate about **AI**, **Data Science**, and **MLOps** with real-world project experience
-- 👨‍💼 Former Intern at **CodeSoft (UI/UX)** and **Clickworker (Data Labeling & NLP Tasks)**
-- 🥉 3rd Rank in **All Pakistan Physics Project Competition**, Gujranwala
-- 🏅 6th Position in Intermediate ICS (Hyderabad Board)
-- 🤝 **Co-Lead IEEE Xtreme Karachi Section, Region 10**
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages**: Python, SQL, C++, Java
-- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, FastAPI, Flask, Streamlit
-- **Tools**: Jupyter, Git, GitHub, Excel, PowerPoint, MySQL, Tableau, VS Code, Google Colab, DVC, MLflow, Kubernetes
-- **Other**: Web Scraping, HTML/CSS/JS, Firebase, AWS, Prometheus & Grafana (Monitoring)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Razakhan143&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razakhan143&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Razakhan143&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Razakhan143&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 📞 Contact
-
-- 📧 Email: [razakhanzada100@gmail.com](mailto:razakhanzada100@gmail.com)  
-- 🌐 LinkedIn: [raza-khan-922612296](https://www.linkedin.com/in/raza-khan-922612296/)
-
----
-
-<p align="center">✨ Let's innovate, deploy, and create something impactful! 🚀</p>
-<p align="center">
+<div align="center">
+  
+  ### 💡 "Turning data into insights, insights into action, and action into impact."
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-</p>
-
+  
+</div>
