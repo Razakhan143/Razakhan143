@@ -17,6 +17,10 @@
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Razakhan143" alt="Razakhan143" /></a> </p>
+
+
+---
 ###
 
 <h3 align="left">Languages and Tools:</h3>
@@ -131,60 +135,6 @@
 - **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, FastAPI, Flask, Streamlit
 - **Tools**: Jupyter, Git, GitHub, Excel, PowerPoint, MySQL, Tableau, VS Code, Google Colab, DVC, MLflow, Kubernetes
 - **Other**: Web Scraping, HTML/CSS/JS, Firebase, AWS, Prometheus & Grafana (Monitoring)
-
----
-
-## 🚀 Projects
-
-### 🔬 [Perfume Recommendation System (MLOps)](https://dagshub.com/Razakhan143/PERFUME_HAVEN_MLOPS_PROJECT)
-- Built TF-IDF-based recommendation engine deployed with FastAPI and Docker.
-- Used DVC + MLflow for experiment tracking and automated CI/CD.
-- Deployed on AWS using Kubernetes, monitored via Prometheus/Grafana.
-
-### 🧠 [AI-Powered Medical Website](https://github.com/Razakhan143/ITPhealthcare)
-- Flask backend + Node.js frontend connected with Firebase.
-- Integrated ML models for disease prediction (88% accuracy) and mental health analysis.
-- Developed an intelligent chatbot using `sentence-transformers`.
-
-### 📊 [Olympics Data Analysis Dashboard](https://olympics-analysis8.streamlit.app/)
-- Built a Streamlit app with Seaborn & Plotly to visualize Olympic medal trends and athlete stats.
-- Focused on gender distribution, performance by country, and sports analysis.
-
----
-
-## 📚 Certifications
-
-- 🧠 **Google AI Essentials** – Coursera (2025)
-- 🔍 **Python Programming** – UniAthena (2024)
-- 📊 **Data Science Certification** – PITP (2025)
-- 🤖 **AI (ML, DL) Certificate** – NAVTTC (2024)
-
----
-
-## 🏆 Achievements
-
-- 🏅 **3rd Rank** – All Pakistan Physics Project Competition (2023)
-- 🏅 **6th Rank** – Intermediate ICS, Hyderabad Board (2023)
-- 💡 **IEEE Xtreme 19.0** – Co-Lead, Karachi Section (2025)
-
----
-
-## 💼 Work Experience
-
-### CodeSoft | UI/UX Intern
-- Designed interfaces for a restaurant and travel app.
-- Gained experience in Figma, prototyping, and user testing.
-
-### Clickworker | Data Expert (Remote)
-- Annotated text/images, performed sentiment analysis, product matching, and transcription tasks.
-- Contributed to high-quality multilingual NLP datasets.
-
----
-
-## ✨ Soft Skills
-
-- Communication | Problem Solving | Teamwork  
-- Creativity | Smart Work | Leadership | Time Management
 
 ---
 
