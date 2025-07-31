@@ -72,8 +72,8 @@ Specializing in **production-grade machine learning systems**, **deep learning a
 **ML & Deep Learning**
 <br><br>
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-Expert-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -85,7 +85,7 @@ Specializing in **production-grade machine learning systems**, **deep learning a
 
 **MLOps & Deployment**
 <br><br>
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-Advanced-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-Intermediate-945DD6?style=flat-square&logo=dvc&logoColor=white)
@@ -97,10 +97,10 @@ Specializing in **production-grade machine learning systems**, **deep learning a
 **Cloud & Infrastructure**
 <br><br>
 ![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Advanced-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </td>
 <td align="center" width="20%">
@@ -118,11 +118,9 @@ Specializing in **production-grade machine learning systems**, **deep learning a
 
 **Data Visualization**
 <br><br>
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Expert-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Advanced-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 </td>
 </tr>
@@ -169,183 +167,6 @@ Specializing in **production-grade machine learning systems**, **deep learning a
 
 ---
 
-## 🔬 **Areas of Expertise**
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
-
-### **Deep Learning & Neural Networks**
-- Convolutional Neural Networks (CNNs)
-- Recurrent Neural Networks (RNNs/LSTMs)
-- Transformer architectures & attention mechanisms
-- Generative models (GANs, VAEs)
-- Transfer learning & fine-tuning
-- Neural architecture search (NAS)
-
-</td>
-<td width="25%" valign="top">
-
-### **Computer Vision**
-- Image classification & object detection
-- Semantic & instance segmentation
-- Facial recognition & biometric systems
-- Medical image analysis
-- Real-time video processing
-- Augmented reality applications
-
-</td>
-<td width="25%" valign="top">
-
-### **MLOps & Production Systems**
-- Model versioning & experiment tracking  
-- Container orchestration & scaling
-- A/B testing for ML models
-- Monitoring & alerting systems
-- Infrastructure as Code (IaC)
-- Edge deployment optimization
-
-</td>
-<td width="25%" valign="top">
-
-### **Data Engineering**
-- ETL/ELT pipeline development
-- Real-time data processing
-- Data warehouse design
-- API development & integration
-- Database optimization
-- Feature stores & data versioning
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 **Continuous Learning & Development Journey**
-
-<div align="center">
-
-### **Current Learning Focus**
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**🧠 Deep Learning Mastery**
-<br><br>
-📚 **Advanced Neural Architectures**  
-🔬 **Research Paper Implementation**  
-🎯 **State-of-the-art Models**  
-📖 **Andrew Ng's Deep Learning Specialization**  
-🏆 **Kaggle Competitions**
-
-</td>
-<td width="33%" align="center">
-
-**👁️ Computer Vision Excellence**
-<br><br>
-🔍 **Object Detection (YOLO, R-CNN)**  
-🎨 **Image Segmentation Techniques**  
-🎭 **Generative Adversarial Networks**  
-📱 **Mobile Vision Applications**  
-🏥 **Medical Image Analysis**
-
-</td>
-<td width="33%" align="center">
-
-**🚀 Production AI Systems**
-<br><br>
-☁️ **Cloud-Native ML Platforms**  
-🐳 **Advanced MLOps Practices**  
-⚡ **Real-time Inference Systems**  
-📊 **ML Model Monitoring**  
-🔧 **AutoML & Hyperparameter Tuning**
-
-</td>
-</tr>
-</table>
-
-### **Learning Roadmap & Milestones**
-
-```mermaid
-timeline
-    title Professional Development & Learning Journey
-    
-    section 2024 Q1
-        Deep Learning Foundations : Advanced CNN Architectures
-                                  : Transfer Learning Mastery
-                                  : PyTorch Deep Dive
-        Computer Vision Projects  : Object Detection Systems
-                                  : Image Classification APIs
-                                  : Real-time Video Processing
-    
-    section 2024 Q2
-        Advanced Deep Learning    : Transformer Models (Vision)
-                                  : Generative AI Applications
-                                  : Neural Architecture Search
-        MLOps & Production       : Model Deployment Strategies
-                                  : Monitoring & Observability
-                                  : Edge Computing Solutions
-    
-    section 2024 Q3
-        Research & Innovation    : Paper Implementation Challenges
-                                 : Open Source Contributions
-                                 : Conference Presentations
-        Industry Collaboration  : Enterprise AI Solutions
-                                : Consulting Projects
-                                : Technical Leadership
-    
-    section 2024 Q4
-        Specialization Focus     : Medical Computer Vision
-                                : Autonomous Systems AI
-                                : Federated Learning
-        Knowledge Sharing       : Technical Blog Writing
-                               : Workshop Facilitation
-                               : Mentorship Programs
-```
-
-### **Ongoing Certifications & Learning**
-
-<div align="center">
-
-![Deep Learning](https://img.shields.io/badge/Deep_Learning_Specialization-In_Progress-FF6B6B?style=for-the-badge&logo=coursera&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision_Nanodegree-Planning-4ECDC4?style=for-the-badge&logo=udacity&logoColor=white)
-![AWS ML](https://img.shields.io/badge/AWS_ML_Specialty-Studying-FF9500?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kaggle Expert](https://img.shields.io/badge/Kaggle_Expert-Target_2024-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-</div>
-
-### **Research Interests & Future Directions**
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🔬 Current Research Areas:**
-- **Explainable AI (XAI)** for computer vision models
-- **Few-shot learning** in medical image analysis  
-- **Edge AI optimization** for mobile deployment
-- **Federated learning** for privacy-preserving ML
-- **Neural architecture search** for efficient models
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 2024-2025 Goals:**
-- **Publish 3+ research papers** in top-tier conferences
-- **Lead open-source projects** in computer vision
-- **Mentor 10+ junior developers** in ML/DL
-- **Speak at 5+ technical conferences**
-- **Build industry partnerships** for AI innovation
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🤝 **Professional Network**
 
