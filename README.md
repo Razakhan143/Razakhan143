@@ -3,7 +3,8 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20%26%20Data%20Science&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+ ![masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+at+Scale;End-to-End+ML+Pipeline+Development;Transforming+Data+into+Strategic+Insights;Production-Ready+AI+Solutions)](https://git.io/typing-svg)
   
@@ -18,7 +19,7 @@
 ### 🎯 **Professional Overview**
 
 **Computer Systems Engineering Student** at **MUET Jamshoro**  
-**CGPA: 3.59/4.0** | **Co-Lead, IEEE Xtreme Karachi Section**
+**CGPA: 3.62/4.0** | **Co-Lead, IEEE Xtreme Karachi Section**
 
 Specializing in **production-grade machine learning systems**, **deep learning architectures**, and **computer vision solutions** with expertise in **MLOps**, **cloud architecture**, and **scalable AI deployment**. Passionate about bridging the gap between cutting-edge research and real-world applications.
 
@@ -37,17 +38,15 @@ Specializing in **production-grade machine learning systems**, **deep learning a
 
 ```
 📈 Projects Deployed:        20+ ML/DL Models
-🚀 Production Systems:       12+ Live Applications  
-⚡ Model Performance:        97%+ Accuracy Average
-🔄 Pipeline Automation:      100% CI/CD Coverage
-👁️ Computer Vision Models:   8+ Deployed Solutions
-🧠 Deep Learning Projects:   15+ Neural Networks
-📚 Technical Articles:       18+ Published
-👥 Teams Led:               5+ Cross-functional
+🚀 Production Systems:       10+ Live Applications  
+⚡ Model Performance:        92%+ Accuracy Average
+🔄 Pipeline Automation:       CI/CD Coverage
+👁️ Computer Vision Models:   3+ Deployed Solutions
+🧠 Deep Learning Projects:   5+ Neural Networks
 ```
 
 **Recent Achievements:**
-- 🥉 **National Recognition** - 3rd Place, All Pakistan Physics Project Competition
+- 🥉 **National Recognition** - 3rd Place, All Pakistan Physics Project Competition Gujranwala Cantt
 - 🏅 **Academic Excellence** - 6th Position, Intermediate ICS
 - 💼 **Industry Experience** - CodeSoft, Clickworker
 
